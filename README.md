@@ -1,2 +1,2 @@
 # ZebraPuzzle
-Another approach to solving Einstein's Zebra Puzzle
+This is a learning project, applying a 'sistematic' approach to solving Einstein's Zebra Puzzle.
