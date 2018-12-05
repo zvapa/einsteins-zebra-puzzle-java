@@ -35,9 +35,7 @@ class House {
      */
     int getPosition() { return position; }
     
-    private House(int position) {
-        this.position = position;
-    }
+    private House(int position) {this.position = position;}
     
     /**
      * Gets this house's list of possible attribute values for the type corresponding to the given value.
@@ -59,7 +57,6 @@ class House {
             case "SmokeBrand":
                 return this.smokeBrands;
         }
-        
         return null;
     }
     
